@@ -17,6 +17,7 @@ A structured playground for:
 
 ## Structure
 
+```
 nlp-intelligence-lab/
 ├── notebooks/
 │   ├── 01_tokenization_experiments.ipynb
@@ -32,6 +33,7 @@ nlp-intelligence-lab/
 ├── resources/
 │   └── references.md
 └── README.md
+```
 
 ---
 
