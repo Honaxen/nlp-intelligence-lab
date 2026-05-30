@@ -37,6 +37,25 @@ nlp-intelligence-lab/
 
 ---
 
+## Stack
+
+Python · scikit-learn · sentence-transformers · matplotlib · numpy
+
+---
+
+## What I Learned
+
+Text representation is a spectrum — from bag of words to transformers.
+Each method trades off speed, interpretability, and semantic understanding.
+
+Visualizing embeddings with PCA revealed structure that math alone can't show.
+Words cluster by meaning without any supervision — this is the power of embeddings.
+
+Attention is not magic — it is a weighted average of context vectors.
+Once you see it as a matrix operation, transformers become much less mysterious.
+
+---
+
 ## Topics
 
 | Notebook | Concept | Key Question |
